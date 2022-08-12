@@ -1,0 +1,6 @@
+{"hair color": {"black": "CCAGCAATCGC", "brown": "GCCAGTGCCG", "blonde": "TTAGCTATCGC"},
+  "face shape": {"square":  "GCCACGG", "round": "ACCACAA", "oval": "AGGCCTCA"},
+  "eye color": {"blue": "TTGTGGTGGC", "green": "GGGAGGTGGC", "brown":  "AAGTAGTGAC"},
+  "gender": {"female":  "TGAAGGACCTTC", "male": "TGCAGGAACTTC"},
+  "race": {"white": "AAAACCTCA", "black":  "CGACTACAG", "asian":  "CGCGGGCCG"}
+}
