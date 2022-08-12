@@ -27,5 +27,5 @@ for person, characteristics in characteristics_suspects.items():
         print("The thief is... ")
         input("--- pause for suspense (press enter) ---")
         print(person.upper() + "! :O")
-
+        quit()
 
